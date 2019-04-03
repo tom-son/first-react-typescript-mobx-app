@@ -1,0 +1,23 @@
+.apodImageTitle {
+  position: relative;
+}
+
+.apodImageTitle__content {
+  position: absolute;
+  width: 90%;
+  bottom: 0px;
+  padding: 15px 5%;
+  background-color: rgba(0,0,0,0.3);
+}
+
+.apodImageTitle__content h4, .apodImageTitle__content p {
+  margin: 5px 0;
+}
+
+.apod__details {
+  padding: 5%;
+  background-color: white;
+  color: #333;
+  line-height: 1.3rem;
+  font-size: 0.9rem;
+}

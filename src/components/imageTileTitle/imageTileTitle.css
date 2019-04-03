@@ -1,0 +1,39 @@
+.imageTileTitle {
+  padding: 10px 5%;
+}
+
+.imageTileTitle__underline {
+  width: 30px;
+  height: 4px;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.imageTileTitle--textCenter {
+  text-align: center;
+}
+
+
+.imageTileTitle--backdrop {
+  background-color: rgba(0,0,0,0.2);
+}
+
+.imageTileTitle--offwhite {
+  color: #ddd;
+}
+
+.imageTileTitle--removeLinkStyle {
+  text-decoration: none;
+}
+
+.imageTileTitle--bottomAlign {
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+.imageTileTitle h4, .imageTileTitle p {
+  margin: 5px 0;
+}

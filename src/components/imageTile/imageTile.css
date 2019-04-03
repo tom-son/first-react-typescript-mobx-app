@@ -1,0 +1,7 @@
+.imageTile {
+  position: relative;
+  min-height: 400px;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
